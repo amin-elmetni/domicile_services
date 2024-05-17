@@ -257,7 +257,7 @@
                 </form>
             </div>
         </x-navbar>
-        @vite('resources/js/signup.js')
+        @vite(['resources/js/signup.js'])
     </body>
 
 </html>
